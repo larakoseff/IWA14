@@ -3,10 +3,10 @@ age = 35
 hobby = 'Coding'
 
 
-const logParameterTwice = (parameter) => {
+const logTwice = (parameter) => {
     console.log(parameter)
     console.log(parameter)
 }
 
-logParameterTwice(`Hello, ${firstName} (${age}). I love ${hobby}!`)
+logTwice(`Hello, ${firstName} (${age}). I love ${hobby}!`)
 
