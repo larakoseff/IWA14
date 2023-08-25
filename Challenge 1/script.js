@@ -8,5 +8,5 @@ const logTwice = (parameter) => {
     console.log(parameter)
 }
 
-logTwice(`Hello, ${firstName} (${age}). I love ${hobby}!`)
+// logTwice(`Hello, ${firstName} (${age}). I love ${hobby}!`)
 
