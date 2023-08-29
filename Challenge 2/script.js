@@ -16,7 +16,6 @@ const example1 = {
 		b: 4,
 		c: 8,
 	},
-	add,
 	multiply,
   calculate: internal
 }
@@ -27,7 +26,6 @@ const example2 = {
 		b: 2,
 		c: 3,
 	},
-	add,
 	multiply,
   calculate: internal
 }
