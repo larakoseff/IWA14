@@ -75,7 +75,7 @@ const example1 = {
 	multiply,
 	
 	/**
-     * Reference to the internal function.
+     * Creation of new calculate function via reference to the internal function.
      * {@link internal}
      */
 
@@ -112,8 +112,8 @@ const example2 = {
 	multiply,
 
 	/**
-     * Reference to the internal function.
-     * {@link internal}
+    * Creation of new calculate function via reference to the internal function.
+	 * {@link internal}
      */
 		calculate: internal
 }
